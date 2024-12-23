@@ -52,21 +52,20 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=montymi&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montymi&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=montymi&show_icons=true&theme=tokyonight)
 <!-- 
-## GitHub Contributions
 
 ### Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=montymi&theme=radical)
 
 ### Board
 ![GitHub Contribution Board](https://ghchart.rshah.org/montymi)
+
 -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montymi&layout=compact&theme=tokyonight)
+
+![Page Views](https://pageview.vercel.app/?github_user=montymi)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
