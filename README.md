@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on: Developing my personal website, with a focus on interactivity and enhancing the auditory experience for visitors.
 - 🌱 Currently learning: Next.js for front-end development and diving into Agentic programming using LangChain.
--👯 Looking to collaborate on: IoT, networking, local and privacy-focused LLM usage, documentation, tutorials, or just talking tech!
+- 👯 Looking to collaborate on: IoT, networking, local and privacy-focused LLM usage, documentation, tutorials, or just talking tech!
 - 🤔  Looking for help with: Finding open source communities, integrating robust testing frameworks, and exploring new work opportunities.
 - 💬 Ask me about: The impact of emerging technologies on various sectors, software architecture, Python programming, cloud engineering, or the latest in AI developments!
 - 📫 How to reach me:
