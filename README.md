@@ -1,6 +1,6 @@
 # Welcome! • ¡Bienvenido! • Benvenuto!
 ### I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
-#### Hope your exploration is enjoyable, my name is *montymi*.
+#### Hope your exploration is enjoyable. My name is *montymi*!
 
 - 🔭 Currently working on: Developing my personal website, with a focus on interactivity and enhancing the auditory experience for visitors.
 - 🌱 Currently learning: Next.js for front-end development and diving into Agentic programming using LangChain.
@@ -10,6 +10,7 @@
 - 📫 How to reach me:
 
   [![LinkedIn][linkedin-shield]][linkedin-url] [![Email][email-shield]][email-url] [![Portfolio][website-shield]][website-url]
+  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once played Division 1 soccer, and now I apply those same teamwork skills to building innovative software solutions!
 
