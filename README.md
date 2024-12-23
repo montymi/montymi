@@ -58,6 +58,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montymi&layout=compact&theme=radical)
 
+<!-- 
 ## GitHub Contributions
 
 ### Streak
@@ -65,6 +66,7 @@
 
 ### Board
 ![GitHub Contribution Board](https://ghchart.rshah.org/montymi)
+-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
