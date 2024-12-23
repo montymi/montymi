@@ -1,18 +1,17 @@
 # Welcome! • ¡Bienvenido! • Benvenuto!
-### I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
-#### Hope your exploration is enjoyable. My name is *montymi*!
+I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
 
-- 🔭 Currently working on: Developing my personal website, with a focus on interactivity and enhancing the auditory experience for visitors.
-- 🌱 Currently learning: Next.js for front-end development and diving into Agentic programming using LangChain.
-- 👯 Looking to collaborate on: IoT, networking, local and privacy-focused LLM usage, documentation, tutorials, or just talking tech!
-- 🤔  Looking for help with: Finding open source communities, integrating robust testing frameworks, and exploring new work opportunities.
-- 💬 Ask me about: The impact of emerging technologies on various sectors, software architecture, Python programming, cloud engineering, or the latest in AI developments!
+Hope your exploration is enjoyable.
+
+- 🔭 Current Project: Building a personal website focused on interactivity and immersive audio.
+- 🌱 Learning: Next.js for front-end and Agentic programming with LangChain.
+- 👯 Collaboration: Open to IoT, networking, privacy-first LLMs, and tech tutorials.
+- 🤔 Help Wanted: Exploring open-source communities, testing frameworks, and new career opportunities.
+- 💬 Ask Me About: Emerging tech, software architecture, design patterns, cloud engineering, or AI trends!
+- ⚡ Fun Fact: Former Division 1 soccer player, now channeling teamwork skills and drive into innovative software!
 - 📫 How to reach me:
 
-  [![LinkedIn][linkedin-shield]][linkedin-url] [![Email][email-shield]][email-url] [![Portfolio][website-shield]][website-url]
-  
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once played Division 1 soccer, and now I apply those same teamwork skills to building innovative software solutions!
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Email][email-shield]][email-url] [![Portfolio][website-shield]][website-url]
 
 ## Spoken Languages
 
@@ -29,7 +28,6 @@
 [![LangChain][LangChain.icon]][LangChain-url]
 [![Ollama][Ollama.ai]][Ollama-url]
 [![PostgreSQL][PostgreSQL.icon]][PostgreSQL-url]
-[![TypeScript][tsLogo]][tsLogo-url]
 [![Vite][viteLogo]][viteLogo-url]
 [![PWA][pwaLogo]][pwaLogo-url]
 [![Recoil][recoilLogo]][recoilLogo-url]
@@ -49,7 +47,6 @@
 [![Espressif][espressifLogo]][espressifLogo-url]
 [![Flutter][flutterLogo]][flutterLogo-url]
 [![Neovim][neovimLogo]][neovimLogo-url]
-
 
 ## GitHub Stats
 
@@ -159,6 +156,9 @@
 
 [neovimLogo]: https://img.shields.io/badge/Neovim-black?style=for-the-badge&logo=neovim&logoColor=natural
 [neovimLogo-url]: https://neovim.io/
+
+[pythonLogo]: https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=natural
+[pythonLogo-url]: https://python.org/
 
 [email-shield]: https://img.shields.io/badge/-Email-black.svg?style=for-the-badge&logo=gmail&logoColor=natural
 [email-url]: mailto:mcmontanaro01@gmail.com
