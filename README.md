@@ -56,15 +56,13 @@
 ![GitHub Stats][profileGrade]
 
 ![Top Languages][topLanguages]
-<!-- 
 
-### Streak
+<!-- UNCOMMENT TO ADD 
 ![GitHub Streak][commitStreak]
 
-### Board
 ![GitHub Contribution Board][commitBoard]
-
 -->
+
 ![Page Views][pageViews]
 
 <!-- MARKDOWN LINKS & IMAGES -->
