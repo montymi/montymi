@@ -53,23 +53,28 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=montymi&show_icons=true&theme=tokyonight)
+![GitHub Stats][profileGrade]
+
+![Top Languages][topLanguages]
 <!-- 
 
 ### Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=montymi&theme=radical)
+![GitHub Streak][commitStreak]
 
 ### Board
-![GitHub Contribution Board](https://ghchart.rshah.org/montymi)
+![GitHub Contribution Board][commitBoard]
 
 -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=montymi&layout=compact&theme=tokyonight)
-
-![Page Views](https://pageview.vercel.app/?github_user=montymi)
+![Page Views][pageViews]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[profileGrade]: https://github-readme-stats.vercel.app/api?username=montymi&show_icons=true&theme=tokyonight
+[topLanguages]: https://github-readme-stats.vercel.app/api/top-langs/?username=montymi&layout=compact&theme=tokyonight
+[commitStreak]: https://github-readme-streak-stats.herokuapp.com/?user=montymi&theme=tokyonight
+[commitBoard]: https://ghchart.rshah.org/montymi
+[pageViews]: https://pageview.vercel.app/?github_user=montymi
+
 [Three.js]: https://img.shields.io/badge/Three.js-black.svg?style=for-the-badge&logo=three.js&logoColor=natural
 [Three-url]: https://threejs.org/
 
