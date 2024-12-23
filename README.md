@@ -160,5 +160,5 @@
 [email-shield]: https://img.shields.io/badge/-Email-black.svg?style=for-the-badge&logo=gmail&logoColor=natural
 [email-url]: mailto:mcmontanaro01@gmail.com
 
-[website-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=react&logoColor=natural
+[website-shield]: https://img.shields.io/badge/-Portfolio-black.svg?style=for-the-badge&logo=vercel&logoColor=natural
 [website-url]: https://montymi.com
