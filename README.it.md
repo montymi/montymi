@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Inglese](https://img.shields.io/badge/Inglese-green.svg?style=for-the-badge)](README.md)
+[![Inglese](https://img.shields.io/badge/Inglese-grey.svg?style=for-the-badge)](README.md)
 [![Spagnolo](https://img.shields.io/badge/Spagnolo-grey.svg?style=for-the-badge)](README.es.md)
-[![Italiano](https://img.shields.io/badge/Italiano-grey.svg?style=for-the-badge)](README.it.md)
+[![Italiano](https://img.shields.io/badge/Italiano-green.svg?style=for-the-badge)](README.it.md)
 
 # Welcome! • ¡Bienvenido! • Benvenuto!
   
