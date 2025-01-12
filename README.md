@@ -1,8 +1,14 @@
-# Welcome! • ¡Bienvenido! • Benvenuto!
+<div align="center">
 
-[![English](https://img.shields.io/badge/English-grey)](README.md)
-[![Spanish](https://img.shields.io/badge/Spanish-grey)](README.es.md)
-[![Italian](https://img.shields.io/badge/Italian-grey)](README.it.md)
+[![English](https://img.shields.io/badge/English-green.svg?style=for-the-badge)](README.md)
+[![Spanish](https://img.shields.io/badge/Spanish-grey.svg?style=for-the-badge)](README.es.md)
+[![Italian](https://img.shields.io/badge/Italian-grey.svg?style=for-the-badge)](README.it.md)
+
+# Welcome! • ¡Bienvenido! • Benvenuto!
+  
+</div>
+
+<br />
 
 I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
 
