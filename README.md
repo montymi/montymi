@@ -1,4 +1,9 @@
 # Welcome! • ¡Bienvenido! • Benvenuto!
+
+[![English](https://img.shields.io/badge/English-grey)](README.md)
+[![Spanish](https://img.shields.io/badge/Spanish-grey)](README.es.md)
+[![Italian](https://img.shields.io/badge/Italian-grey)](README.it.md)
+
 I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
 
 Hope your exploration is enjoyable.
