@@ -21,32 +21,35 @@ Hope your exploration is enjoyable.
 
 ## Tools
 
-[![Three.js][Three.js]][Three-url]
-[![React][React.js]][React-url]
-[![Django][Django.py]][Django-url]
-[![Redis][Redis.io]][Redis-url]
-[![LangChain][LangChain.icon]][LangChain-url]
-[![Ollama][Ollama.ai]][Ollama-url]
-[![PostgreSQL][PostgreSQL.icon]][PostgreSQL-url]
-[![Vite][viteLogo]][viteLogo-url]
-[![PWA][pwaLogo]][pwaLogo-url]
-[![Recoil][recoilLogo]][recoilLogo-url]
-[![React Router][rrLogo]][rrLogo-url]
-[![MUI][muiLogo]][muiLogo-url]
-[![Vercel][vercelLogo]][vercelLogo-url]
-[![Next.js][nextLogo]][nextLogo-url]
-[![Tailwind CSS][tailwindLogo]][tailwindLogo-url]
-[![Vue.js][vueLogo]][vueLogo-url]
-[![Node.js][nodeLogo]][nodeLogo-url]
-[![Express.js][expressLogo]][expressLogo-url]
-[![FastAPI][fastapiLogo]][fastapiLogo-url]
-[![MongoDB][mongoLogo]][mongoLogo-url]
-[![MySQL][mysqlLogo]][mysqlLogo-url]
 [![Docker][dockerLogo]][dockerLogo-url]
-[![Kubernetes][k8nsLogo]][k8nsLogo-url]
+[![Django][Django.py]][Django-url]
+[![Express][expressLogo]][expressLogo-url]
+[![FastAPI][fastapiLogo]][fastapiLogo-url]
 [![Espressif][espressifLogo]][espressifLogo-url]
 [![Flutter][flutterLogo]][flutterLogo-url]
+[![Fastify][fastifyLogo]][fastifyLogo-url]
+[![Kubernetes][k8nsLogo]][k8nsLogo-url]
+[![LangChain][LangChain.icon]][LangChain-url]
+[![MongoDB][mongoLogo]][mongoLogo-url]
+[![MySQL][mysqlLogo]][mysqlLogo-url]
+[![MUI][muiLogo]][muiLogo-url]
+[![Moonrepo][moonLogo]][moonLogo-url]
 [![Neovim][neovimLogo]][neovimLogo-url]
+[![Node.js][nodeLogo]][nodeLogo-url]
+[![Next.js][nextLogo]][nextLogo-url]
+[![Ollama][Ollama.ai]][Ollama-url]
+[![Prisma][prismaLogo]][prismaLogo-url]
+[![PostgreSQL][PostgreSQL.icon]][PostgreSQL-url]
+[![PWA][pwaLogo]][pwaLogo-url]
+[![React][React.js]][React-url]
+[![Redis][Redis.io]][Redis-url]
+[![Recoil][recoilLogo]][recoilLogo-url]
+[![React Router][rrLogo]][rrLogo-url]
+[![Three.js][Three.js]][Three-url]
+[![Tailwind CSS][tailwindLogo]][tailwindLogo-url]
+[![Vite][viteLogo]][viteLogo-url]
+[![Vercel][vercelLogo]][vercelLogo-url]
+[![Vue][vueLogo]][vueLogo-url]
 
 ## GitHub Stats
 
@@ -69,6 +72,15 @@ Hope your exploration is enjoyable.
 [commitStreak]: https://github-readme-streak-stats.herokuapp.com/?user=montymi&theme=tokyonight
 [commitBoard]: https://ghchart.rshah.org/montymi
 [pageViews]: https://pageview.vercel.app/?github_user=montymi
+
+[fastifyLogo]: https://img.shields.io/badge/Fastify-black.svg?style=for-the-badge&logo=fastify&logoColor=natural
+[fastifyLogo-url]: https://threejs.org/
+
+[moonLogo]: https://img.shields.io/badge/Moonrepo-black.svg?style=for-the-badge&logo=moonrepo&logoColor=natural
+[moonLogo-url]: https://threejs.org/
+
+[prismaLogo]: https://img.shields.io/badge/Prisma-black.svg?style=for-the-badge&logo=prisma&logoColor=natural
+[prismaLogo-url]: https://threejs.org/
 
 [Three.js]: https://img.shields.io/badge/Three.js-black.svg?style=for-the-badge&logo=three.js&logoColor=natural
 [Three-url]: https://threejs.org/
