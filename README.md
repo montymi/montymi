@@ -12,7 +12,7 @@
 
 I'm a developer and strategist passionate about learning, solving complex problems, and helping others grow.
 
-Hope your exploration is enjoyable.
+Hope your exploration is enjoyable!
 
 - 🔭 Current Project: Building a personal website focused on interactivity and immersive audio.
 - 🌱 Learning: Next.js for front-end and Agentic programming with LangChain.
